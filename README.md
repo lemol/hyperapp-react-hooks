@@ -13,8 +13,7 @@ yarn start   # OR npm start
 
 ## Result
 
-With `create-react-app`, based on the [Hyperapp](https://github.com/jorgebucaran/hyperapp#getting-started)
-getting started counter example, just:
+With `create-react-app`, based on the [Hyperapp getting started counter example](https://github.com/jorgebucaran/hyperapp#getting-started), just:
 
 1. Import `React` instead of `h`.
 
