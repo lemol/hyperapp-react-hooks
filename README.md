@@ -4,6 +4,13 @@ Trying to build [Hyperapp](https://github.com/jorgebucaran/hyperapp) syntax with
 
 [![Edit 6joor0no6w](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/6joor0no6w)
 
+## Use
+
+```bash
+yarn         # OR npm install
+yarn start   # OR npm start
+```
+
 ## Result
 
 With `create-react-app`, based on the [Hyperapp](https://github.com/jorgebucaran/hyperapp#getting-started)
